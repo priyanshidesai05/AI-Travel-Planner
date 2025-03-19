@@ -1,0 +1,7 @@
+langchain
+langchain-core
+langchain-groq
+requests
+streamlit
+logging
+markdown

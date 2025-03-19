@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "username": "jay2416",
+            "email": "jay@example.com",
+            "mobile": "9876543210"
+        },
+        {
+            "username": "user2",
+            "email": "user2@example.com",
+            "mobile": "9123456789"
+        },
+        {
+            "username": "pd",
+            "email": "priyanshidesai0504@gmail.com",
+            "mobile": "9377459342"
+        }
+    ]
+}
